@@ -4,13 +4,17 @@ import Punefood from "../Pages/Punefood";
 function BlogTemplate({image, imgtitle, title, date, content}) {
     return (
         <div className="bg-black min-h-screen h-full text-white flex flex-col items-center">
-            <div className="bg-yellow-500 w-screen text-white h-40 flex flex-col items-center">
+            <div className="bg-yellow-500 w-full text-white h-40 flex flex-col items-center">
                 <div className="mt-20">
-                    <img src={image} className="w-[510px] h-[320px] object-cover rounded-lg" alt={imgtitle} />
+                    <img
+                        src={image}
+                        className="w-[90vw] max-w-[510px] h-[216px] max-h-[320px] object-cover rounded-lg"
+                        alt={imgtitle}
+                    />
                 </div>
             </div>
-            <div className=" mt-64 w-[510px] ">
-                <h2 className="text-3xl font-bold text-left mt-10">
+            <div className="mt-32 lg:mt-64 w-[90vw] max-w-[510px]">
+                <h2 className="text-2xl lg:text-3xl font-bold text-left mt-10">
                     {title}
                 </h2>
                 <p className="mt-4 text-neutral-400 text-base">

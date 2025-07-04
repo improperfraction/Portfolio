@@ -7,7 +7,7 @@ function About() {
         <>
             <Element name="about">
                 <div className="w-screen h-screen bg-black flex flex-col items-center">
-                    <h1 className="text-white font-bold text-2xl lg:text-3xl mt-20 lg:mt-24">Professional Experience</h1>
+                    <h1 className="text-white font-bold text-2xl lg:text-3xl mt-24">Professional Experience</h1>
                     <div className="lg:w-1/2 mt-8 lg:mt-24 w-full flex-1 flex items-start justify-center">
                         <div className="hidden lg:flex flex-col items-center justify-start h-3/5 w-full gap-8">
                             <TCSCard />
