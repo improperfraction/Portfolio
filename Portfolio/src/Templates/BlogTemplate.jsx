@@ -8,7 +8,7 @@ function BlogTemplate({image, imgtitle, title, date, content}) {
                 <div className="mt-20">
                     <img
                         src={image}
-                        className="w-[90vw] max-w-[510px] h-[216px] max-h-[320px] object-cover rounded-lg"
+                        className="w-[90vw] max-w-[510px] h-[216px] lg:h-[320px] object-cover rounded-lg"
                         alt={imgtitle}
                     />
                 </div>
