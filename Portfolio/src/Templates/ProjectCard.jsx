@@ -25,14 +25,14 @@ function ProjectCard({
           {/* This empty div pushes the button row to the bottom */}
           <div className="flex-1"></div>
           <div className="flex flex-row justify-start gap-2 mb-2">
-            <a
+          {website!="" &&  <a
               href={website}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 bg-black text-white px-2 py-1 rounded-lg font-light text-xs lg:text-sm hover:bg-gray-800 transition"
             >
               Website
-            </a>
+            </a>}
             <a 
               href={source}
               target="_blank"
