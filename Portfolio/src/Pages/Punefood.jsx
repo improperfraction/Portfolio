@@ -17,14 +17,15 @@ function Punefoodlist() {
         { No: 2, name: "Yeti and the Monk", location: "Khadki & Viman Nagar", description: "Try their pork chops on rice, summer rolls, pho, Darjeeling dumplings, and thukpa." },
         { No: 3, name: "Shawarma King", location: "Nigdi", description: "Best shawarma in Pune; try it in the brota instead of roti." },
         { No: 4, name: "Gong", location: "Balewadi", description: "Casual Chinese spot from the Mainland China group; try their prawns cheung fun and baos." },
-        { No: 5, name: "Two Sticks", location: "Baner", description: "Try their Thai green curry and Khow Suey platter." },
+        { No: 5, name: "Kerala Culture", location: "Nigdi", description: "Best Surmai and  Prawns fry along with Manglorian biryani" },
         { No: 6, name: "K", location: "Aundh", description: "Try their ramen." },
         { No: 7, name: "Subculture", location: "Aundh", description: "Best burgers; try their Mangalorean ghee roast chicken burgers and smoky shroom burgers with hot chocolate." },
         { No: 8, name: "The Place - Touche The Sizzler", location: "Camp", description: "Try their chicken shashlik and pork sizzlers." },
         { No: 9, name: "Dorje and the Bell", location: "Pimple gurav", description: "Try their baos and chicken miso ramen." },
-        { No: 10, name: "Boteco", location: "Koregaon Park", description: "Brazilian cuisine; try their pao de queijo, escondidinho, and carne na pedra." },
+        { No: 10, name: "Amritsari", location: "Wakad", description: "Best Punjabi food in Pune(veg)" },
         { No: 11, name: "Savya Rasa", location: "Koregaon Park", description: "Fine-dining Kerala food with fantastic cocktails." },
-        { No: 12, name: "Toscano, Greedy Man, or Danona’s", location: "Koregaon Park, Baner, Deccan", description: "Try their pizzas." }
+        { No: 12, name: "Raudra Bhairavi Restaurandt", location: "Wakad", description: "Best Tambda-Pandhar Rassa mutton thali" },
+        { No: 13, name: "Toscano, Greedy Man, or Danona’s", location: "Koregaon Park, Baner, Deccan", description: "Try their pizzas." }
     ];
     return (
         <>
