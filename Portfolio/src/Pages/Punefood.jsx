@@ -24,7 +24,7 @@ function Punefoodlist() {
         { No: 9, name: "Dorje and the Bell", location: "Pimple gurav", description: "Try their baos and chicken miso ramen." },
         { No: 10, name: "Amritsari", location: "Wakad", description: "Best Punjabi food in Pune(veg)" },
         { No: 11, name: "Savya Rasa", location: "Koregaon Park", description: "Fine-dining Kerala food with fantastic cocktails." },
-        { No: 12, name: "Raudra Bhairavi Restaurandt", location: "Wakad", description: "Best Tambda-Pandhar Rassa mutton thali" },
+        { No: 12, name: "Raudra Bhairavi Restaurant", location: "Wakad", description: "Best Tambda-Pandhra Rassa mutton thali" },
         { No: 13, name: "Toscano, Greedy Man, or Danona’s", location: "Koregaon Park, Baner, Deccan", description: "Try their pizzas." }
     ];
     return (
