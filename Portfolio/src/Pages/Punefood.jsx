@@ -6,7 +6,7 @@ function Punefood() {
     return (
         <>
             <BlogTemplate image="https://sahilk.in/static/9a0ea21db5b4f62a40f2403a31c93a54/a9657/pune-food-sahil-khan.webp" imgtitle="Pune Food"
-            title="My favorite places in Pune to eat at and order from" date="October 30, 2024" content={<Punefoodlist />}></BlogTemplate>
+            title="My favorite places in Pune to eat at and order from" date="Novembar 16, 2025" content={<Punefoodlist />}></BlogTemplate>
         </>
     )
 }
