@@ -30,9 +30,7 @@ function Punefoodlist() {
     return (
         <>
             <p className=" text-neutral-300 text-base lg:text-lg  text-left mb-4">
-                Even though I moved to Pune in 2015, I really started exploring Pune's food in late 2021. I figured I'd document my favorites and regulars,
-                since I still keep getting asked for recommendations from folks who're visiting the city. Some of these
-                are probably outdated now, but I intend on keeping this list updated.
+                Even though I moved to Pune in 2015, I really started exploring Pune's food in late 2021. I figured I'd document my favorites and regulars.
             </p>
             <p className="text-neutral-300 text-lg text-left">Happy eating!</p>
 
